@@ -1,5 +1,4 @@
-
-fname = '/home/pranav/project_repositories/advitiya/elec_tasks/insystem_programming/scripts/led.hex'
+fname = './../scripts/led.hex'
 
 in_file = open(fname, 'r')
 out_file = open('out_hex_file','w')
