@@ -2,12 +2,12 @@
 
 This is an attempt to build an autonomous self programming system of Atmega Microcontrollers. 
 
-The Documentation comprises of: 
+The [Documentation](https://github.com/Electrical-Subsystem/Insystem-Programming/tree/master/Documentation) comprises of: 
 
-- references : This folder has datasheets and application notes of the required devices. Along with these, it also contains the USBASP scripts which were used to write the code for insystem programming 
-- summaries : this encloses writeups that explains the concepts in a nutshell without any digression    
+- [_references_](https://github.com/Electrical-Subsystem/Insystem-Programming/tree/master/Documentation/references) : This folder has [_datasheets and application notes of the required devices_](https://github.com/Electrical-Subsystem/Insystem-Programming/tree/master/Documentation/references/datasheets%20and%20application%20notes). Along with these, it also contains the [_USBASP scripts_](https://github.com/Electrical-Subsystem/Insystem-Programming/tree/master/Documentation/references/usbasp_scripts) which were used to write the code for insystem programming 
+- [_summaries_](https://github.com/Electrical-Subsystem/Insystem-Programming/tree/master/Documentation/summaries) : this encloses writeups that explains the concepts in a nutshell without any digression    
 
-'Script' incorporates the actual codes which implement the ISP system. For more description, refer its README
+[_scripts_]() incorporates the actual codes which implement the ISP system. For more description, refer its README
 
 
 ## Authors
